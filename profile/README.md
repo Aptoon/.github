@@ -89,7 +89,7 @@
 
 ## How It Works
 
-![image](https://github.com/user-attachments/assets/f34834cb-ac92-4042-82df-41071c3a6abf)
+<img width="2807" height="1452" alt="image" src="https://github.com/user-attachments/assets/8c3ed665-76ea-4720-bfca-8a6ce6af65fb" />
 
 1. **Connect Solana Wallet** (Phantom, Backpack, etc.)
 2. **Link Game Account** (via API or manual input)
