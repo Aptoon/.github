@@ -3,7 +3,7 @@
 <h2 align="center">Launches First Solana-Based <code>AI Comic</code> Platform for Gamers</h2>
 
 <p align="center">
-  <a href="https://aptoon.vercel.app/" style="color: #a77dff">APTOON</a> | <a href="" style="color: #a77dff">Demo Video</a> | <a href="" style="color: #a77dff">Pitchdeck</a> | <a href="https://x.com/Aptoondotsol" style="color: #a77dff">Twitter</a>
+  <a href="https://aptoon.vercel.app/" style="color: #a77dff">APTOON</a> | <a href="" style="color: #a77dff">Demo Video</a> | <a href="https://www.figma.com/deck/ascQgZH3BNCf7waUOfMMDE" style="color: #a77dff">Pitchdeck</a> | <a href="https://x.com/Aptoondotsol" style="color: #a77dff">Twitter</a>
 </p>
 
 <h2 align="center">Sponsor (Click on the logo)</h2>
